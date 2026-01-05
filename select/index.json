@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Street Walk",
+  "base_artist": "TAKABO",
+  "createdAt": "2026-01-05T07:41:37.271119Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Street Walk",
+      "artist": "TAKABO, REAL-T, Eric.B.Jr",
+      "has_synced": false,
+      "path": "select/pl_01_Street_Walk_TAKABO,_REAL-T,_Eric.B.Jr.txt"
+    }
+  ]
+}
